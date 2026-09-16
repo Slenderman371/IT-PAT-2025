@@ -1,0 +1,4 @@
+Shipment Report - Generated: 2026/09/16
+---------------------------------------
+ShipmentID | ClientName | Origin | Destination | WeightKg | Status | CreatedAt
+------------------------------------------------------------------------------
